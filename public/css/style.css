@@ -1,0 +1,19 @@
+html, body {
+    min-height: 100%;
+}
+
+#api-navigation .api-nav-link {
+    color: #3b98f0;
+}
+
+main {
+    margin-bottom: 100px;
+}
+
+#class-dir, #collapsible-config, #collapsible-settings, #settings-toggler {
+    cursor: pointer;
+}
+
+#code-example code, #tcp-config code, #unix-config code {
+    color: #111;
+}
